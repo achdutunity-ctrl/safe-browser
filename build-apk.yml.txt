@@ -1,8 +1,8 @@
 .github/workflows/build-apk.yml
-גרסה 2
+גרסה 3
 name: Build APK
 
 on:
-  workflow_dispatch:   # הפעלת חבילת העבודה ידנית בגיטהאב
+  workflow_dispatch:
 
 jobs:
